@@ -25,7 +25,7 @@ Your project will run on "localhost:3000"
 
 ## To see the project running live, click below
 
-[MVST Github Search](https://mvst-github-search.herokuapp.com/)
+[ContentSquare Github Search](https://mvst-github-search.herokuapp.com/)
 
 # Instructions on how to run the test suite
 To run the test
@@ -38,11 +38,6 @@ To run the test
 3. Will improve the User interface
 4. Additional tests will be performed
 5. Additional Landing pages will be created on clicking the repository names.
-
-# Your feedback about this exercise
-
-It was a simple fun task and a good addition to my projects. 
-It helped me polish my skills with React.
 
 
  
