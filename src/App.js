@@ -9,7 +9,7 @@ import "./App.css";
 
 function App() {
   //CHANGE USER NAME HERE
-  const [user] = useState("rengil");
+  const [user] = useState("MaGu1997");
 
   const [repositories, setRepositories] = useState([]);
   const [userInfo, setUserInfo] = useState({});
@@ -56,7 +56,7 @@ function App() {
   return loading ? (
     <div className="App">
       <header className="App-header">
-        <img src="/mvst_logo.svg" className="App-loading" alt="loading" />
+        <img src="/contentsquarelogo.png" className="App-loading" alt="loading" />
       </header>
     </div>
   ) : (
