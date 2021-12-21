@@ -40,7 +40,9 @@ function App() {
       if (response) {
         const repo = await response.json();
         await setRepositories(repo);
-        setLoading(false);
+        setTimeout(() => {
+          setLoading(false);
+        }, 2000);
       }
     } catch (error) {
       console.log(error);
